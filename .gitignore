@@ -1,0 +1,39 @@
+# Derleme çıktıları (Build outputs)
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.ilk
+*.pdb
+
+# Statik ve Dinamik Kütüphaneler
+*.a
+*.lib
+*.so
+*.dylib
+
+# Derleme klasörleri
+bin/
+obj/
+build/
+dist/
+
+# IDE ve Editor dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+out/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+
+# CMake çıktıları
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile

@@ -1,0 +1,3 @@
+Boost.Asio: Endüstri standardıdır, asenkron işlemler için çok güçlüdür.
+
+SFML (Network Modülü): Daha basit ve hızlı başlangıç için uygundur.
